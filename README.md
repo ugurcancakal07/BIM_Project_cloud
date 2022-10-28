@@ -1,2 +1,2 @@
-# Mimari
-Mimari modele ait tüm datalar
+# Federe Model
+Federe modele ait tüm modeller ve verilerin bulunduğu klasör.
