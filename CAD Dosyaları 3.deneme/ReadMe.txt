@@ -1,0 +1,1 @@
+Şifre için whatsapp grubu adını büyük/küçük ve tükrçe karakterler dahil olduğu gibi girebilirsiniz.
