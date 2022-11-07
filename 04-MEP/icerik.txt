@@ -1,0 +1,1 @@
+Revit MEP Model - Sadece Temiz Hava Kanalları ve Elektrik Tavaları kapsam dahilindedir. (HVAC & ELEC)

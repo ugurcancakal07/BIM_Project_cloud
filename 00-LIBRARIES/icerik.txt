@@ -1,0 +1,1 @@
+Revit modellerinde kullanılacak olan tüm Family'ler ve model oluşturma şablonları bu klasör altından yüklenmelidir.

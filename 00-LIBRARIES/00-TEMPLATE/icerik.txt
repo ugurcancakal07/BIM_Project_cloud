@@ -1,0 +1,2 @@
+Statik , Mimari ve MEP modelleri için kullanılacak olan Revit 2022 Şablonları
+Tüm şablonlar metrik ölçü birimleriyle hazırlanmalıdır.
