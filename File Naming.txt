@@ -1,0 +1,30 @@
+Project Name	Floor	Disiplin	Tip											(Gerek Olursa Mahal Kodu _CICU)
+	IZU	L4	ARC		AF	Animation file (of a model)
+		L5	STA		CM	Combined model (combined multidiscipline model)
+			MEC		CR	Specific for the Clash Process
+			ELC		DR	2D
+					M2	2D Model File
+					M3	3D Model File
+					MR	Model rendition file for other renditions, e.g thermal analysis etc.
+					VS	Visualization file (of a model)
+				
+					BQ	Bill of quantities
+					CA	Calculations
+					CO	Correspondence
+					CP	Cost plan
+					DB	Database 
+					FN	File Note
+					HS	Health and safety
+					IE	Information exchange file
+					MI	Minutes / action notes
+					MS	Method statement
+					PP	Presentation
+					PR	Programme
+					RD	Room data sheet
+					RI	Request for information
+					RP	Report
+					SA	Schedule of accommodation
+					SH	Schedule
+					SN	Snagging list
+					SP	Specification
+					SU	Survey
