@@ -1,30 +1,35 @@
-Project Name	Floor	Disiplin	Tip											(Gerek Olursa Mahal Kodu _CICU)
-	IZU	L4	ARC		AF	Animation file (of a model)
-		L5	STA		CM	Combined model (combined multidiscipline model)
-			MEC		CR	Specific for the Clash Process
-			ELC		DR	2D
-					M2	2D Model File
-					M3	3D Model File
-					MR	Model rendition file for other renditions, e.g thermal analysis etc.
-					VS	Visualization file (of a model)
-				
-					BQ	Bill of quantities
-					CA	Calculations
-					CO	Correspondence
-					CP	Cost plan
-					DB	Database 
-					FN	File Note
-					HS	Health and safety
-					IE	Information exchange file
-					MI	Minutes / action notes
-					MS	Method statement
-					PP	Presentation
-					PR	Programme
-					RD	Room data sheet
-					RI	Request for information
-					RP	Report
-					SA	Schedule of accommodation
-					SH	Schedule
-					SN	Snagging list
-					SP	Specification
-					SU	Survey
+PROJECT NAME	DISCIPLINE CODE		TYPE CODE and DEFINITION	FLOOR	ORIGINATOR CODE		DESCRIPTION (Optional)		NUMBER (Optional)
+IZU		ALL			D	Drawing			L4		ALE		(Text, ex. BEP or ToDoList)	00
+  		ARC			G	Diagram			L5		ERY	  	  
+		ELC			I	Image			LA		MSS		
+		MEC			L	List					UCK		
+		STR			M	Model		  		
+					T	Textual				
+	  				V	Video/Audio				
+					DP	Drawing Plan				
+					DE	Drawing Elevation				
+					DS	Drawing Section				
+					M2	2D Model File				
+					M3	3D Model File				
+					AF	Animation file (of a model)				
+					CM	Combined model				
+					CR	Specific for the Clash Process				
+					MR	Model rendition file for other renditions				
+					VS	Visualization file (of a model)				
+		  	  				
+					DB	Database 				
+					FN	File Note				
+					PP	Presentation				
+					PR	Programme				
+					RP	Report				
+					SH	Schedule				
+					BQ	Bill of quantities				
+					CA	Calculations				
+					CO	Correspondence				
+					CP	Cost plan				
+					IE	Information exchange file				
+					MI	Minutes / action notes				
+					MS	Method statement				
+					RD	Room data sheet				
+					RI	Request for information				
+					SP	Specification				
