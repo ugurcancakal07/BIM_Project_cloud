@@ -1,1 +1,0 @@
-Şablon olarak kullanılacak CAD çizimleri (.dwg)
